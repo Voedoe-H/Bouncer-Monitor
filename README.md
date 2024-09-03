@@ -1,7 +1,5 @@
 # Reliable and Real-Time Anomaly Detection for Safety-Relevant Systems
 
-A brief, clear title for your project.
-
 ## Abstract
 
 This repository contains the source code and a JAR file for the Anomaly Detection approach presented in "Reliable and Real-Time Anomaly Detection for
@@ -13,7 +11,6 @@ Then the approach is exectued on the generated data sets and the results given o
 - [Abstract](#abstract)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Citing](#citing)
 
 ## Installation
@@ -32,8 +29,10 @@ Then the approach is exectued on the generated data sets and the results given o
 To run the application, use the following command:
 ```sh
 java -jar path/to/Bouncer-Monitor-1.0-all.jar
-
+```
 ## Citing
+
+### Citing
 
 If you use this code in your research or projects, please cite our paper:
 
