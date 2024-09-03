@@ -25,14 +25,14 @@ Then the approach is exectued on the generated data sets and the results given o
 
 ## Usage
 
+Due to the fact that the Affine Arithmetic Decision Diagram (AADD) library is not directly publicly available, I packed all the dependencies into the "Bouncer-Monitor-1.0-all.jar".
+
 ### Running the JAR
 To run the application, use the following command:
 ```sh
 java -jar path/to/Bouncer-Monitor-1.0-all.jar
 ```
 ## Citing
-
-### Citing
 
 If you use this code in your research or projects, please cite our paper:
 
