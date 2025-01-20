@@ -27,6 +27,9 @@ Then the approach is exectued on the generated data sets and the results given o
 
 Due to the fact that the Affine Arithmetic Decision Diagram (AADD) library is not directly publicly available, I packed all the dependencies into the "Bouncer-Monitor-1.0-all.jar".
 
+The AADD library now avaiable to build in the following Git Hub Repository https://github.com/tukcps/Multiplatform-AADD. Build the multiplatform library into your local maven repository and then change
+the aadd dependancy in the bouncer monitor gradle script to the multiplatofomr maven local repository.
+
 ### Running the JAR
 To run the application, use the following command:
 ```sh
